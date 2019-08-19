@@ -1,5 +1,5 @@
 # Terminal-Theme
-My Custom Terminal Theme
+My custom terminal theme. Change terminal background during session start to random anime pics stored locally.
 
 ### Screenshots:
 
